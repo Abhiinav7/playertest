@@ -1,0 +1,79 @@
+#EXTM3U
+#EXTINF:0,1. SAUDI ch for Quran H
+udp://239.10.20.1:1234?stype=1&onid=702&tsid=26&svcid=5601
+#EXTINF:0,2. SAUDI Ch for Sunnah 
+udp://239.10.20.2:1234?stype=1&onid=702&tsid=26&svcid=5602
+#EXTINF:0,3. SAUDI TV HD
+udp://239.10.20.3:1234?stype=1&onid=702&tsid=26&svcid=2601
+#EXTINF:0,4. CNN
+udp://239.10.20.4:1234?stype=1&onid=2048&tsid=16&svcid=1609
+#EXTINF:0,5. Al Arabiya
+udp://239.10.20.5:1234?stype=1&onid=2048&tsid=1&svcid=107
+#EXTINF:0,6. TV5
+udp://239.10.20.6:1234?stype=1&onid=2048&tsid=16&svcid=1601
+#EXTINF:0,7. MBC 1
+udp://239.10.20.7:1234?stype=1&onid=2048&tsid=59&svcid=4
+#EXTINF:0,8. MBC 2
+udp://239.10.20.8:1234?stype=1&onid=2048&tsid=59&svcid=9
+#EXTINF:0,9. MBC 3
+udp://239.10.20.9:1234?stype=1&onid=2048&tsid=59&svcid=11
+#EXTINF:0,10. MBC 4
+udp://239.10.20.10:1234?stype=1&onid=2048&tsid=59&svcid=5
+#EXTINF:0,11. MBC Action
+udp://239.10.20.11:1234?stype=1&onid=2048&tsid=59&svcid=10
+#EXTINF:0,12. MBC Bollywood
+udp://239.10.20.12:1234?stype=1&onid=2048&tsid=59&svcid=8
+#EXTINF:0,13. Al Jazeera English
+udp://239.10.20.13:1234?stype=1&onid=1918&tsid=20200&svcid=403
+#EXTINF:0,14. AD Nat Geo HD
+udp://239.10.20.14:1234?stype=1&onid=100&tsid=50&svcid=8
+#EXTINF:0,15. ZEE AFLAM
+udp://239.10.20.15:1234?stype=1&onid=1918&tsid=40040&svcid=5
+#EXTINF:0,16. ZEE ALWAN
+udp://239.10.20.16:1234?stype=1&onid=1918&tsid=40040&svcid=6
+#EXTINF:0,17. ZEE AFLAM
+udp://239.10.20.17:1234?stype=1&onid=1918&tsid=40040&svcid=5
+#EXTINF:0,18. B4U PLUS
+udp://239.10.20.18:1234?stype=1&onid=1918&tsid=40040&svcid=8
+#EXTINF:0,19. Dubai One
+udp://239.10.20.19:1234?stype=1&onid=2048&tsid=47&svcid=4719
+#EXTINF:0,20. KSA SPORTS1 HD
+udp://239.10.20.20:1234?stype=1&onid=702&tsid=26&svcid=2603
+#EXTINF:0,21. KSA SPORTS 2 HD
+udp://239.10.20.21:1234?stype=1&onid=702&tsid=26&svcid=5605
+#EXTINF:0,22. KSA SPORT 3 HD
+udp://239.10.20.22:1234?stype=1&onid=702&tsid=26&svcid=5604
+#EXTINF:0,23. Dubai TV
+udp://239.10.20.23:1234?stype=1&onid=2048&tsid=47&svcid=4710
+#EXTINF:0,24. Dubai Sports 2
+udp://239.10.20.24:1234?stype=1&onid=2048&tsid=47&svcid=4713
+#EXTINF:0,25. ONTIME SPORTS
+udp://239.10.20.25:1234?stype=1&onid=2048&tsid=2&svcid=207
+#EXTINF:0,26. ON  E
+udp://239.10.20.26:1234?stype=1&onid=2048&tsid=2&svcid=206
+#EXTINF:0,27. ON Drama
+udp://239.10.20.27:1234?stype=1&onid=2048&tsid=2&svcid=208
+#EXTINF:0,28. LBC SAT
+udp://239.10.20.28:1234?stype=1&onid=2048&tsid=21&svcid=2108
+#EXTINF:0,29. Dubai Racing 2
+udp://239.10.20.29:1234?stype=1&onid=2048&tsid=47&svcid=4715
+#EXTINF:0,30. Dubai Racing 3
+udp://239.10.20.30:1234?stype=1&onid=2048&tsid=47&svcid=4716
+#EXTINF:0,31. kirkuk alan
+udp://239.10.20.31:1234?stype=1&onid=2048&tsid=7&svcid=809
+#EXTINF:0,32. Falastini.tv
+udp://239.10.20.32:1234?stype=1&onid=20480&tsid=800&svcid=5680
+#EXTINF:0,33. Al Arabiya
+udp://239.10.20.33:1234?stype=1&onid=2048&tsid=1&svcid=107
+#EXTINF:0,34. SBC HD
+udp://239.10.20.34:1234?stype=1&onid=702&tsid=26&svcid=5603
+#EXTINF:0,35. AD Nat Geo HD
+udp://239.10.20.35:1234?stype=1&onid=100&tsid=50&svcid=8
+#EXTINF:0,36. Rotana Music
+udp://239.10.20.36:1234?stype=1&onid=2048&tsid=21&svcid=2101
+#EXTINF:0,37. Rotana Cinema KSA
+udp://239.10.20.37:1234?stype=1&onid=2048&tsid=21&svcid=2107
+#EXTINF:0,38. Al Jazeera Documenta
+udp://239.10.20.38:1234?stype=1&onid=1918&tsid=20200&svcid=404
+#EXTINF:0,39. AD Nat Geo HD
+udp://239.10.20.40:1234?stype=1&onid=100&tsid=50&svcid=8
